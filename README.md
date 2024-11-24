@@ -1,0 +1,2 @@
+# Mulitcore-Programming
+本书介绍了在不同的平台上如何利用多个处理器核进行编程开发
